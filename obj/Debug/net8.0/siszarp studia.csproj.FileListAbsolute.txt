@@ -1,0 +1,14 @@
+c:\Users\mori\Documents\siszarp studia\obj\Debug\net8.0\siszarp studia.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mori\Documents\siszarp studia\obj\Debug\net8.0\siszarp studia.AssemblyInfoInputs.cache
+c:\Users\mori\Documents\siszarp studia\obj\Debug\net8.0\siszarp studia.AssemblyInfo.cs
+c:\Users\mori\Documents\siszarp studia\obj\Debug\net8.0\siszarp studia.csproj.CoreCompileInputs.cache
+c:\Users\mori\Documents\siszarp studia\bin\Debug\net8.0\siszarp studia.exe
+c:\Users\mori\Documents\siszarp studia\bin\Debug\net8.0\siszarp studia.deps.json
+c:\Users\mori\Documents\siszarp studia\bin\Debug\net8.0\siszarp studia.runtimeconfig.json
+c:\Users\mori\Documents\siszarp studia\bin\Debug\net8.0\siszarp studia.dll
+c:\Users\mori\Documents\siszarp studia\bin\Debug\net8.0\siszarp studia.pdb
+c:\Users\mori\Documents\siszarp studia\obj\Debug\net8.0\siszarp studia.dll
+c:\Users\mori\Documents\siszarp studia\obj\Debug\net8.0\refint\siszarp studia.dll
+c:\Users\mori\Documents\siszarp studia\obj\Debug\net8.0\siszarp studia.pdb
+c:\Users\mori\Documents\siszarp studia\obj\Debug\net8.0\siszarp studia.genruntimeconfig.cache
+c:\Users\mori\Documents\siszarp studia\obj\Debug\net8.0\ref\siszarp studia.dll

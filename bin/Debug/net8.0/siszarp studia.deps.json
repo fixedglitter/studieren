@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "siszarp studia/1.0.0": {
+        "runtime": {
+          "siszarp studia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "siszarp studia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
